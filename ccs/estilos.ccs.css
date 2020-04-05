@@ -1,6 +1,32 @@
 body
 {
-    color: deeppink;
+    color: red;
     text-align: center;
-    font-family: Arial;
+    font-family: fantasy;
+    font-size: 16px;
+    margin: 0;
+    padding: 0%;
+}
+
+#cabecera
+{
+    background: #33f;
+     color: white;
+     margin: 0;
+     padding: 0;
+}
+
+#container
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid #f1eded;
+    margin:0 auto;
+    background-color: violet;
+}
+
+#container h1 
+{
+    font-size: 20px;
 }
